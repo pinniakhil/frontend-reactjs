@@ -158,5 +158,23 @@ const reducer = (state = 0, action) => {
 }
 export default reducer;
 ```
-Initially, the app looks as follows −
+- Initially, the app looks as follows <br/>
+ <p align="center">
 ![](/public/global/1st.jpg)
+</p>
+
+- When I click increment two times, the output screen will be as shown below −<br/>
+ 
+ ![](/public/global/2nd.jpg)
+ 
+- When we decrement it once, it shows the following screen −<br/>
+
+![](/public/global/3rd.jpg)
+
+- And reset will take the app back to initial state which is counter value 0. This is shown below −<br/>
+
+![](/public/global/4th.jpg)
+
+- Let us understand what happens with Redux dev tools when the first increment action takes place −<br/>
+
+![](/public/global/5th.jpg)
