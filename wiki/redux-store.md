@@ -159,4 +159,4 @@ const reducer = (state = 0, action) => {
 export default reducer;
 ```
 Initially, the app looks as follows −
-![Initially, the app looks as follows !](/public/global/1st.jpg)
+![](/public/global/1st.jpg)
